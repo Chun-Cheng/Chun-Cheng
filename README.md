@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chun-Cheng-Yu, a CS major student in Taiwan. 
+I'm Chun-Cheng Yu, a CS major student in Taiwan. 
 
 - A member of @utaipei_sa
 - To integrate services in the same categories is my dream
