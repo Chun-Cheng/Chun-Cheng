@@ -1,9 +1,11 @@
 ### Hi there 👋
 
-I'm Chun-Cheng Yu, a CS major student in Taiwan. 
+I'm Chun-Cheng Yu, a CS major student in Taiwan.  
+To integrate services in the same categories is my dream.
 
-- A member of @utaipei_sa
-- To integrate services in the same categories is my dream
+Current projects:
+- utaipei_sa/reserve.utsa
+- and 2 private projects
 
 <!--
 **Chun-Cheng/Chun-CHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
