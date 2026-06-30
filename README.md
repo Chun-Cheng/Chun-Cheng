@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Chun-Cheng Yu, a student in Taiwan.  
+I'm Chun-Cheng Yu, a human in Taiwan.  
 
 <!--
 **Chun-Cheng/Chun-CHeng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
